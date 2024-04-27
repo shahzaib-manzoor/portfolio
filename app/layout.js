@@ -11,6 +11,7 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata = {
   title: 'Shahzaib  - Software Developer',
   description: 'This is the portfolio of Shahzaib Manzoor. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.',
+  image: "https://res.cloudinary.com/dy9nnyeyj/image/upload/v1714230606/d025aa05-39e5-496f-90a1-1645d5af2d9f_1_qv5zrq.jpg"
 };
 
 export default function RootLayout({ children }) {
