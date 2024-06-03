@@ -31,6 +31,12 @@ export default async function Home() {
       <Projects />
       <Education />
       <Blog blogs={blogs} />
+ <section id="github-contributions">
+            <h2>GitHub Contributions</h2>
+            <div class="github-chart">
+                <img src="https://ghchart.rshah.org/shahzaib-manzoor" alt="GitHub Contributions Chart">
+            </div>
+        </section>
       <ContactSection />
     </>
   )
